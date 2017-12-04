@@ -1,1 +1,1 @@
-# Atomic trades for ZEC <-> ETH
+# Zcash-Eth-Atomic-Trades
